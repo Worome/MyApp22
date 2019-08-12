@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp2</string>
+    <string name="boton">Evaluar</string>
+    <string name="txt_quimica">Química</string>
+    <string name="tv_estado">Estado del alumno:</string>
+    <string name="txt_matematicas">Matemáticas</string>
+    <string name="txt_fisica">Física</string>
+</resources>
